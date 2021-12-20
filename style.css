@@ -33,11 +33,11 @@ h2:before{
     animation: animate 5.5s linear forwards;
 }
 @keyframes animate {
-    0%
+    100%
     {
         left: 110%;
     }
-    100%
+    0%
     {
         left: -20%;
     }
